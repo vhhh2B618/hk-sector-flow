@@ -1,0 +1,615 @@
+{
+  "source": "Wikipedia Hang Seng Index constituents + Hang Seng Industry Classification-style mapping",
+  "n_tickers": 85,
+  "sectors_zh": {
+    "Financials": "金融",
+    "Properties & Construction": "地產建築",
+    "Information Technology": "資訊科技",
+    "Consumer Discretionary": "非必需性消費",
+    "Consumer Staples": "必需性消費",
+    "Energy": "能源",
+    "Materials": "原材料",
+    "Industrials": "工業",
+    "Utilities": "公用事業",
+    "Telecommunications": "電訊",
+    "Healthcare": "醫療保健",
+    "Conglomerates": "綜合企業"
+  },
+  "tickers": {
+    "0005.HK": {
+      "name": "HSBC Holdings plc",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "0005"
+    },
+    "0388.HK": {
+      "name": "HKEx Limited",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "0388"
+    },
+    "0939.HK": {
+      "name": "China Construction Bank",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "0939"
+    },
+    "1299.HK": {
+      "name": "AIA Group Limited",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "1299"
+    },
+    "1398.HK": {
+      "name": "Industrial and Commercial Bank of China",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "1398"
+    },
+    "2318.HK": {
+      "name": "Ping An Insurance",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "2318"
+    },
+    "2388.HK": {
+      "name": "BOC Hong Kong (Holdings) Ltd",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "2388"
+    },
+    "2628.HK": {
+      "name": "China Life",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "2628"
+    },
+    "3968.HK": {
+      "name": "China Merchants Bank",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "3968"
+    },
+    "3988.HK": {
+      "name": "Bank of China Ltd",
+      "sector": "Financials",
+      "sector_zh": "金融",
+      "hsi_subindex": "Finance",
+      "code": "3988"
+    },
+    "0002.HK": {
+      "name": "CLP Holdings Limited",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "0002"
+    },
+    "0003.HK": {
+      "name": "Hong Kong and China Gas Company Limited",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "0003"
+    },
+    "0006.HK": {
+      "name": "Power Assets Holdings Limited",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "0006"
+    },
+    "0836.HK": {
+      "name": "China Resources Power",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "0836"
+    },
+    "1038.HK": {
+      "name": "Cheung Kong Infrastructure Holdings Limited",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "1038"
+    },
+    "2688.HK": {
+      "name": "ENN Energy",
+      "sector": "Utilities",
+      "sector_zh": "公用事業",
+      "hsi_subindex": "Utilities",
+      "code": "2688"
+    },
+    "0012.HK": {
+      "name": "Henderson Land Development Company Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0012"
+    },
+    "0016.HK": {
+      "name": "Sun Hung Kai Properties Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0016"
+    },
+    "0101.HK": {
+      "name": "Hang Lung Properties Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0101"
+    },
+    "0688.HK": {
+      "name": "China Overseas Land & Investment Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0688"
+    },
+    "0823.HK": {
+      "name": "Link REIT",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0823"
+    },
+    "0960.HK": {
+      "name": "Longfor Properties",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "0960"
+    },
+    "1109.HK": {
+      "name": "China Resources Land Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "1109"
+    },
+    "1113.HK": {
+      "name": "CK Asset Holdings",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "1113"
+    },
+    "1209.HK": {
+      "name": "China Resources Mixc Lifestyle",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "1209"
+    },
+    "1997.HK": {
+      "name": "Wharf Real Estate Investment Company Limited",
+      "sector": "Properties & Construction",
+      "sector_zh": "地產建築",
+      "hsi_subindex": "Properties",
+      "code": "1997"
+    },
+    "0001.HK": {
+      "name": "CK Hutchison Holdings Limited",
+      "sector": "Conglomerates",
+      "sector_zh": "綜合企業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0001"
+    },
+    "0027.HK": {
+      "name": "Galaxy Entertainment Group Ltd.",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0027"
+    },
+    "0066.HK": {
+      "name": "MTR Corporation Ltd",
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0066"
+    },
+    "0175.HK": {
+      "name": "Geely Auto",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0175"
+    },
+    "0241.HK": {
+      "name": "Alibaba Health",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0241"
+    },
+    "0267.HK": {
+      "name": "CITIC Limited",
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0267"
+    },
+    "0285.HK": {
+      "name": "BYD Electronics",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0285"
+    },
+    "0288.HK": {
+      "name": "WH Group",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0288"
+    },
+    "0291.HK": {
+      "name": "China Resources Beer",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0291"
+    },
+    "0300.HK": {
+      "name": "Midea Group",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0300"
+    },
+    "0316.HK": {
+      "name": "Orient Overseas (International) Limited",
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0316"
+    },
+    "0322.HK": {
+      "name": "Tingyi",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0322"
+    },
+    "0386.HK": {
+      "name": "Sinopec Corp",
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0386"
+    },
+    "0669.HK": {
+      "name": "Techtronic Industries",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0669"
+    },
+    "0700.HK": {
+      "name": "Tencent Holdings Limited",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0700"
+    },
+    "0762.HK": {
+      "name": "China Unicom",
+      "sector": "Telecommunications",
+      "sector_zh": "電訊",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0762"
+    },
+    "0857.HK": {
+      "name": "PetroChina Company Limited",
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0857"
+    },
+    "0868.HK": {
+      "name": "Xinyi Glass",
+      "sector": "Materials",
+      "sector_zh": "原材料",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0868"
+    },
+    "0881.HK": {
+      "name": "Zhongsheng Group",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0881"
+    },
+    "0883.HK": {
+      "name": "CNOOC Limited",
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0883"
+    },
+    "0941.HK": {
+      "name": "China Mobile Ltd",
+      "sector": "Telecommunications",
+      "sector_zh": "電訊",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0941"
+    },
+    "0968.HK": {
+      "name": "Xinyi Solar",
+      "sector": "Materials",
+      "sector_zh": "原材料",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0968"
+    },
+    "0981.HK": {
+      "name": "Semiconductor Manufacturing International Corporation",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0981"
+    },
+    "0992.HK": {
+      "name": "Lenovo",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "0992"
+    },
+    "1024.HK": {
+      "name": "Kuaishou",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1024"
+    },
+    "1044.HK": {
+      "name": "Hengan International Group Co. Ltd",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1044"
+    },
+    "1088.HK": {
+      "name": "China Shenhua Energy",
+      "sector": "Energy",
+      "sector_zh": "能源",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1088"
+    },
+    "1093.HK": {
+      "name": "CSPC Pharmaceutical Group",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1093"
+    },
+    "1099.HK": {
+      "name": "Sinopharm Group",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1099"
+    },
+    "1177.HK": {
+      "name": "Sino Biopharm",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1177"
+    },
+    "1211.HK": {
+      "name": "BYD Company",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1211"
+    },
+    "1378.HK": {
+      "name": "China Hongqiao Group",
+      "sector": "Materials",
+      "sector_zh": "原材料",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1378"
+    },
+    "1810.HK": {
+      "name": "Xiaomi",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1810"
+    },
+    "1876.HK": {
+      "name": "Budweiser Brewing Company APAC",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1876"
+    },
+    "1928.HK": {
+      "name": "Sands China",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1928"
+    },
+    "1929.HK": {
+      "name": "Chow Tai Fook",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "1929"
+    },
+    "2015.HK": {
+      "name": "Li Auto",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2015"
+    },
+    "2020.HK": {
+      "name": "Anta Sports",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2020"
+    },
+    "2057.HK": {
+      "name": "ZTO Express",
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2057"
+    },
+    "2269.HK": {
+      "name": "WuXi Biologics",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2269"
+    },
+    "2313.HK": {
+      "name": "Shenzhou International",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2313"
+    },
+    "2319.HK": {
+      "name": "Mengniu Dairy",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2319"
+    },
+    "2331.HK": {
+      "name": "Li-Ning",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2331"
+    },
+    "2359.HK": {
+      "name": "WuXi AppTec",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2359"
+    },
+    "2382.HK": {
+      "name": "Sunny Optical",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2382"
+    },
+    "2618.HK": {
+      "name": "JD Logistics",
+      "sector": "Industrials",
+      "sector_zh": "工業",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2618"
+    },
+    "2899.HK": {
+      "name": "Zijin Mining",
+      "sector": "Materials",
+      "sector_zh": "原材料",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "2899"
+    },
+    "3690.HK": {
+      "name": "Meituan",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "3690"
+    },
+    "3692.HK": {
+      "name": "Hansoh Pharmaceutical Group",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "3692"
+    },
+    "6618.HK": {
+      "name": "JD Health",
+      "sector": "Healthcare",
+      "sector_zh": "醫療保健",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "6618"
+    },
+    "6690.HK": {
+      "name": "Haier",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "6690"
+    },
+    "6862.HK": {
+      "name": "Haidilao",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "6862"
+    },
+    "9618.HK": {
+      "name": "JD.com",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9618"
+    },
+    "9633.HK": {
+      "name": "Nongfu Spring",
+      "sector": "Consumer Staples",
+      "sector_zh": "必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9633"
+    },
+    "9888.HK": {
+      "name": "Baidu",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9888"
+    },
+    "9961.HK": {
+      "name": "Trip.com Group",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9961"
+    },
+    "9988.HK": {
+      "name": "Alibaba Group",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9988"
+    },
+    "9992.HK": {
+      "name": "Pop Mart",
+      "sector": "Consumer Discretionary",
+      "sector_zh": "非必需性消費",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9992"
+    },
+    "9999.HK": {
+      "name": "NetEase",
+      "sector": "Information Technology",
+      "sector_zh": "資訊科技",
+      "hsi_subindex": "Commerce & Industry",
+      "code": "9999"
+    }
+  }
+}
